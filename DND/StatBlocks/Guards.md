@@ -1,6 +1,8 @@
 
 # Guards
 
+# Guard
+
 |CR|PB|
 |:-:|:-:|
 |1/8|+2|
@@ -20,4 +22,38 @@
 
 ## Actions
 ***Spear.*** *Melee or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft.  
-*Hit:* 4 (1d6 + 1) Piercing damage.
+*Hit:* 4 (1d6 + 1) Piercing damage.  
+
+[DND Beyond](https://www.dndbeyond.com/monsters/5195065-guard)
+
+# Guard Captain
+
+|CR|PB|
+|:-:|:-:|
+|4|+2|
+
+|Init|AC|HP|
+|:-:|:-:|:-:|
+|+4 (14)|18|75 (10d8+30)|
+
+|Stat|MOD/SAVE|Stat|MOD/SAVE|
+|-|:-:|-|:-:|
+|STR|+4|INT|+1|
+|DEX|+4|WIS|+2|
+|CON|+3|CHA|+1|
+
+**Skills** Athletics +6, Perception +4  
+**Gear**  Breastplate, Javelins (6), Longsword, Shield 
+
+## Actions
+
+***Multiattack.*** The guard makes two attacks, using Javelin or Longsword in any combination.
+
+***Javelin.*** *Melee or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft.  
+*Hit:* 14 (3d6 + 4) Piercing damage.
+
+***Longsword.*** *Melee Attack Roll:* +6, reach 5 ft.  
+*Hit:* 15 (2d10 + 4) Slashing damage.
+
+
+[DND Beyond](https://www.dndbeyond.com/monsters/5195064-guard-captain)

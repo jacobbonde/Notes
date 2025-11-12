@@ -13,4 +13,6 @@ Benefactor of archeological endeavors and collector of rare ancient items.
 
 ## Oak's Memory Manor
 
+The manor of House Gaud, situated near the town of
+
 

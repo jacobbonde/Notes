@@ -24,5 +24,3 @@ foam_template:
 **Gear** 
 
 ## Actions
-***WEAPON*** *ATTACK ROLL:*  
-*Hit:*
