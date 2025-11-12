@@ -12,12 +12,17 @@ foam_template:
 
 |Init|AC|HP|
 |:-:|:-:|:-:|
-|+2 (12)|12|22 (5d8)|
+|+0 (10)|10|00 (0d0)|
 
-||MOD/SAVE||MOD/SAVE|
+|Stat|MOD/SAVE|Stat|MOD/SAVE|
 |-|:-:|-|:-:|
-|STR|+1|INT|-2|
-|DEX|+2|WIS|+0|
-|CON|+0|CHA|-2|
+|STR|+0|INT|+0|
+|DEX|+0|WIS|+0|
+|CON|+0|CHA|+0|
+
+**Skills**   
+**Gear** 
 
 ## Actions
+***WEAPON*** *ATTACK ROLL:*  
+*Hit:*
