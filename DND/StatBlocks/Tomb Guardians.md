@@ -1,5 +1,7 @@
 # Tomb Guardians
 
+Undead orc guards protecting a tomb
+
 |CR|PB|
 |:-:|:-:|
 |1|+2|
