@@ -4,7 +4,7 @@ Undead orc guards protecting a tomb
 
 |CR|PB|
 |:-:|:-:|
-|1|+2|
+|~1|+2|
 
 |Init|AC|HP|
 |:-:|:-:|:-:|

@@ -18,7 +18,7 @@ The skeleton is of a person that sprung the trap on the top step of the stairs. 
 
 ### Dead Graverobber
 
-A search of the dead body will reveal 8 GP treasure.
+A search of the dead body will reveal 5-10 GP treasure.
 
 ## Door to Guarded Chamber
 
@@ -29,8 +29,10 @@ There's a locked, heavy wooden door at the bottom of the stairs, leading into th
 
 ## Guarded Chamber
 
-A big room Guarded by two [[Tomb Guardians]].  
-Each Guardian is "sleeping" in a lidless stone sarcophagus. When the door is opened, they wake up and use their first round of movement to get our of the sarcophagus.  
+A big room guarded by two [[Tomb Guardians]].  
+Each Guardian is "sleeping" in a lidless stone sarcophagus. When the door is opened, they wake up and use their first round of movement to get out of the sarcophagus.  
+
+![[Tomb Guardians]]
 
 The walls in the chamber is made up of sandstone relief panels. One of the panels is a hidden door to the Central Chamber.
 
