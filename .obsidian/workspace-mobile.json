@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/NPCs/House Gaud.md",
+                "file": "DND/Scenarios/King Alkan's tomb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Gaud"
+              "title": "King Alkan's tomb"
             }
           }
         ]
@@ -156,6 +156,7 @@
   },
   "active": "d0d4127f94b9db43",
   "lastOpenFiles": [
+    "DND/NPCs/House Gaud.md",
     "DND/Scenarios/King Alkan's tomb.md",
     "DND/AdventureIdeas.md",
     "DND/Baroness Inessa Gaud.md",
