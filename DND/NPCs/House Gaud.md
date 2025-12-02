@@ -18,4 +18,5 @@ Husband of Inessa.
 
 The manor of House Gaud, situated near the town of [[Loran-s Oaks]]
 
+The Manor also houses the Gaud Collection of Rare Artifacts.
 
