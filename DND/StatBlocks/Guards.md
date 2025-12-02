@@ -3,6 +3,8 @@
 
 # Guard
 
+[DND Beyond](https://www.dndbeyond.com/monsters/5195065-guard)
+
 |CR|PB|
 |:-:|:-:|
 |1/8|+2|
@@ -24,9 +26,9 @@
 ***Spear.*** *Melee or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft.  
 *Hit:* 4 (1d6 + 1) Piercing damage.  
 
-[DND Beyond](https://www.dndbeyond.com/monsters/5195065-guard)
-
 # Guard Captain
+
+[DND Beyond](https://www.dndbeyond.com/monsters/5195064-guard-captain)
 
 |CR|PB|
 |:-:|:-:|
@@ -54,6 +56,3 @@
 
 ***Longsword.*** *Melee Attack Roll:* +6, reach 5 ft.  
 *Hit:* 15 (2d10 + 4) Slashing damage.
-
-
-[DND Beyond](https://www.dndbeyond.com/monsters/5195064-guard-captain)
