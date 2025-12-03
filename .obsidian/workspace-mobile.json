@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Lore/Loran-s Oaks.md",
+                "file": "DND/Scenarios/King Alkan's tomb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loran-s Oaks"
+              "title": "King Alkan's tomb"
             }
           }
         ]
@@ -156,8 +156,12 @@
   },
   "active": "d0d4127f94b9db43",
   "lastOpenFiles": [
-    "DND/NPCs/House Gaud.md",
+    "Maralin forest.md",
     "DND/Scenarios/King Alkan's tomb.md",
+    "forest.md",
+    "DND/Lore/King Alkan.md",
+    "DND/Lore/Loran-s Oaks.md",
+    "DND/NPCs/House Gaud.md",
     "DND/AdventureIdeas.md",
     "DND/Baroness Inessa Gaud.md",
     "House Gaud.md",
