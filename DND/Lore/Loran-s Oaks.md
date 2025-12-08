@@ -12,7 +12,6 @@ Local market in the middle of the town, around the Great Oak.
 ### Orster Smithy
 The sisters Nolina (blacksmith and farrier) and Gimma (weaponsmith and armourer) run the Orster Smithy. Apprenticies (strikers).
 
-
 ### Inn
 
 ### Tavern
