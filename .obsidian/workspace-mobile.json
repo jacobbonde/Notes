@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Scenarios/King Alkan's tomb.md",
+                "file": "World/ScratchPad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "King Alkan's tomb"
+              "title": "ScratchPad"
             }
           }
         ]
@@ -156,13 +156,13 @@
   },
   "active": "d0d4127f94b9db43",
   "lastOpenFiles": [
-    "Maralin forest.md",
+    "DND/AdventureIdeas.md",
     "DND/Scenarios/King Alkan's tomb.md",
+    "Maralin forest.md",
     "forest.md",
     "DND/Lore/King Alkan.md",
     "DND/Lore/Loran-s Oaks.md",
     "DND/NPCs/House Gaud.md",
-    "DND/AdventureIdeas.md",
     "DND/Baroness Inessa Gaud.md",
     "House Gaud.md",
     "DND/StatBlocks/Tomb Guardians.md",
