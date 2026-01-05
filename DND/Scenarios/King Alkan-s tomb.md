@@ -1,7 +1,7 @@
 # King Alkan's Tomb.
 
 The tomb of the ancient [[King Alkan]] has recently been uncovered in the [[Marolin forest]]. Nobody has opened it yet, it's known to be dangerous. [[Guards#Guard|guards]] are posted outside to keep (other) graverobbers away.  
-A benefactor, [[House Gaud#Baroness Inessa Gaud|Baroness Inessa Gaud]], has paid the team to explore the tomb - she keeps the treasure, they get paid.
+A benefactor, [[House Gaud#Baroness Inessa Gaud|Baroness Inessa Gaud]], has paid the team to explore the tomb - she keeps the treasure, they get paid 500 GP.
 
 ## Entrance
 
@@ -12,13 +12,13 @@ Inside is a narrow, steep staircase that leads down to a closed door. There's ab
 
 ### Trap
 
-The skeleton is of a person that sprung the trap on the top step of the stairs. There's an identical trap on the next step. 
+The skeleton is of a person that sprung the trap on the top step of the stairs. The trap resets itself.
 
 ![[Trap (Stairs)]] 
 
 ### Dead Graverobber
 
-A search of the dead body will reveal 5-10 GP treasure.
+A search of the dead body will reveal 5-10 GP + a silver ring (5 GP).
 
 ## Door to Guarded Chamber
 
