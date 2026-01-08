@@ -16,7 +16,7 @@ The sisters Nolina (blacksmith and farrier) and Gimma (weaponsmith and armourer)
 
 ### The Acorn Inn 
 
-Turnspit dogs
+Turnspit dogs? or just a kid?
 
 ### Lumber Axe Tavern (skovøksen)
 
