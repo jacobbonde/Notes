@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/ScratchPad.md",
+                "file": "DND/Locations/Oak-s Memory Manor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ScratchPad"
+              "title": "Oak-s Memory Manor"
             }
           }
         ]
@@ -156,13 +156,17 @@
   },
   "active": "d0d4127f94b9db43",
   "lastOpenFiles": [
+    "Kingdom of.md",
+    "DND/Locations/Oak-s Memory Manor.md",
+    "DND/Locations/Marolin forest.md",
+    "DND/NPCs/House Gaud.md",
+    "World/ScratchPad.md",
     "DND/AdventureIdeas.md",
     "DND/Scenarios/King Alkan's tomb.md",
     "Maralin forest.md",
     "forest.md",
     "DND/Lore/King Alkan.md",
     "DND/Lore/Loran-s Oaks.md",
-    "DND/NPCs/House Gaud.md",
     "DND/Baroness Inessa Gaud.md",
     "House Gaud.md",
     "DND/StatBlocks/Tomb Guardians.md",
