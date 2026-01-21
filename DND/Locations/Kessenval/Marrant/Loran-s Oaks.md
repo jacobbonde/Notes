@@ -1,6 +1,6 @@
 # Loran's Oaks
 
-Town in [[Barony of Marrant]], [[Kingdom-of-Kessenval]] near [[Oak-s Memory-Manor]] and about a days travel from [[King-Alkan-s-tomb]].
+Town in [[Barony of Marrant]], [[Kingdom of Kessenval]] near [[Oak-s Memory Manor]] and about a days travel from [[King Alkan-s tomb]].
 
 The town is built around a town square with a huge solitary oak tree (Loran's Great Oak) in the center.
 
@@ -26,3 +26,8 @@ The wise woman Vona lives in a hut in a grove close to the town.
 ## Authorities
 The Baron Gaud is the authority. Townspeople take turns to act as watchmen.
 
+
+[Barony of Marrant]: <Barony of Marrant.md> "Barony of Marrant"
+[Kingdom of Kessenval]: <../Kingdom of Kessenval.md> "Kingdom of Kessenval"
+[Oak-s Memory Manor]: <Oak-s Memory Manor.md> "Oak's Memory Manor"
+[King Alkan-s tomb]: <../../../Scenarios/King Alkan-s tomb.md> "King Alkan's Tomb."

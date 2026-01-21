@@ -1,7 +1,7 @@
 # King Alkan's Tomb.
 
-The tomb of the ancient [[King-Alkan]] has recently been uncovered in the [[Marolin-forest]]. Nobody has opened it yet, it's known to be dangerous. [[Guards#Guard|guards]] are posted outside to keep (other) graverobbers away.  
-A benefactor, [[House-Gaud#Baroness Inessa Gaud|Baroness Inessa Gaud]], has paid the team to explore the tomb - she keeps the treasure, they get paid 500 GP.
+The tomb of the ancient [[King Alkan]] has recently been uncovered in the [[Marolin Forest]]. Nobody has opened it yet, it's known to be dangerous. [[Guards#Guard|guards]] are posted outside to keep (other) graverobbers away.  
+A benefactor, [[House Gaud#Baroness Inessa Gaud|Baroness Inessa Gaud]], has paid the team to explore the tomb - she keeps the treasure, they get paid 500 GP.
 
 ## Entrance
 
@@ -67,3 +67,11 @@ Stone sarcophagus, treasure
 ```
 ## Wrapping Up
 If the adventurers succeed and head back to Baroness Gaud, she might offer then another job that entails transporting or escorting a valuable relic to a buyer, 
+
+
+[King Alkan]: <../Lore/King Alkan.md> "King Alkan"
+[Marolin Forest]: <../Locations/Kessenval/Marolin Forest.md> "Marolin forest"
+[Guards#Guard|guards]: ../StatBlocks/Guards.md "Guards"
+[House Gaud#Baroness Inessa Gaud|Baroness Inessa Gaud]: <../NPCs/House Gaud.md> "House Gaud"
+[Trap (Stairs)]: <../Blocks/Trap (Stairs).md> "Trap (Stairs)"
+[Tomb Guardians]: <../StatBlocks/Tomb Guardians.md> "Tomb Guardians"
