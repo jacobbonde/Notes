@@ -5,7 +5,7 @@ modified: 2025-11-11T21:19:48+01:00
 
 # House Gaud
 
-The Baron and Baroness Gaud of the [[Barony-of-Marrant]] live in [[Oak-s Memory-Manor]].
+The Baron and Baroness Gaud of the [[Barony of Marrant]] live in [[Oak-s Memory-Manor]].
 
 ## Baroness Inessa Gaud
 

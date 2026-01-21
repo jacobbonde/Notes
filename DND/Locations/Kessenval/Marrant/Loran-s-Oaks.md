@@ -1,6 +1,6 @@
 # Loran's Oaks
 
-Town in [[Barony-of-Marrant]], [[Kingdom-of-Kessenval]] near [[Oak-s Memory-Manor]] and about a days travel from [[King-Alkan-s-tomb]].
+Town in [[Barony of Marrant]], [[Kingdom-of-Kessenval]] near [[Oak-s Memory-Manor]] and about a days travel from [[King-Alkan-s-tomb]].
 
 The town is built around a town square with a huge solitary oak tree (Loran's Great Oak) in the center.
 
