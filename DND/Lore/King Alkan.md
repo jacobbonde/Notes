@@ -7,7 +7,7 @@ modified: 2025-11-11T20:59:00+01:00
 
 Dead ancient king whose tomb has been recently uncovered.
 
-King Alkan was the king of [[Torofel]] and a vassal king to the [[God-King Gundran]] of the [[Gar Maran Empire]].  
+King Alkan was the king of [[Kingdom of Torofel]] and a vassal king to the [[God-King Gundran]] of the [[Gar Maran Empire]].  
 
 King Alkan was human as were most of his subjects, but he kept a royal guard of orcs, of which the two most loyal members were turned into undead [[Tomb Guardians]] to protect his tomb.
 
