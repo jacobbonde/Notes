@@ -1,7 +1,7 @@
 # Watermill
 
 The watermill is a saw mill on a small tributary to the Mar river.
-The mill has been attacked an taken over by at group of [[Goblins]].
+The mill has been attacked and taken over by at group of [[Goblins]].
 
 Mill: two-story building. 25 x 40 ft.
 

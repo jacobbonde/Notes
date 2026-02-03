@@ -1,2 +1,0 @@
-# Gar Maran Empire
-
