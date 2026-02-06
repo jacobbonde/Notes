@@ -9,6 +9,7 @@ The Baron and Baroness Gaud of the [[Barony of Marrant]], [[Kingdom of Kessenval
 
 ## Baroness Inessa Gaud
 
+Human. Early fourties. Brown hair tied back in a loose bun.  
 Benefactor of archeological endeavors and collector of rare ancient items.
 Wife of Lukam.
 
