@@ -1,6 +1,7 @@
 [[King Alkan-s tomb]]  
 [[Couriers of the Relic]]  
 [[Save the Sawmill]]
+[[Nightmares]]
 
 
 Toke : N'Konin  
@@ -10,3 +11,5 @@ Johan: Xoran
 
 
 [King Alkan-s tomb]: <Scenarios/King Alkan-s tomb.md> "King Alkan's Tomb."
+
+[Nightmares]: Scenarios/Nightmares.md "Nightmares"

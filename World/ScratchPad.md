@@ -2,6 +2,8 @@
 
 Jevannis  
 Lekvas
+Edelin
+
 
 # Harbour town
 Located at the mouth of a [river], the town boasts a [castle] that is build on an [islet].
