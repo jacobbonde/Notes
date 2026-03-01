@@ -8,18 +8,26 @@ Hungry gods - those that no longer have any worshippers - often becomes desperat
 
 ## Gods and Magic
 
-## Gods
-### Gods of the Seasons
+## Gods of the Seasons
+
 Four gods representing each season in the year - spring, summer, autumn, winter.
-#### Spring - Feruna
+
+### Spring - Feruna
+
 Youth, beginnings, fertility  
 *Domains:* Life, War, (Nature)
-#### Summer - Sëor
+
+### Summer - Sëor
+
 Maturity, light, family, war  
 *Domains:* Light, Life, War
-#### Autumn - Emrin
+
+### Autumn - Emrin
+
 Harvest, hunt, decline, old age  
 *Domain:* Trickery, Life, (Tempest, Nature)
-#### Winter - Vorsleren
+
+### Winter - Vorsleren
+
 Endings, death, darkness, rebirth  
 *Domain:* Trickery, (Knowledge, Grave)

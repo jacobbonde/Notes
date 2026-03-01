@@ -3,11 +3,11 @@
 
 |CR|PB|
 |:-:|:-:|
-|1|+2|
+|2|+2|
 
 |Init|AC|HP|
 |:-:|:-:|:-:|
-|+3 (13)|13|25 (10d4)|
+|+3 (13)|13|40 (d)|
 
 |Stat|MOD/SAVE|Stat|MOD/SAVE|
 |-|:-:|-|:-:|
@@ -24,6 +24,8 @@
 
 
 ## Actions
+**Multiattack.** The Nightmare Qasit makes two Rend attacks.
+
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft.  
 *Hit:* 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit’s next turn.
 
