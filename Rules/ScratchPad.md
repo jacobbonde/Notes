@@ -31,3 +31,78 @@ Roll 1d10 and add the _lowest_ of your two ability dice.
 | 2 | 2d6 |
 | 3 | 2d8 |
 
+# Talents
+## Body
+- Melee
+- Archery
+- Brawl
+- Stealth
+- Riding
+- Acrobatics
+- Athletics
+- Dancing
+
+## Hands
+- Picking locks
+- Picking pockets
+- Gambling (cheating)
+- Forgery
+- Music (playing)
+- Drawing
+- Crafting
+- Calligrahpy
+- Medicine
+  
+## Intellect
+- Knowledge 
+- Perception
+- Investigate
+- Research
+- Medicine
+- Survival
+
+## Social
+- Insight
+- Influence
+  - Persuade
+  - Intimidate
+  - Deceive
+- Performance
+  - Acting
+  - Music
+  
+
+## Magic 
+
+# Character Concepts
+
+## Monster Hunter
+Body - Melee or Archery
+Mind - Knowledge(Monster Lore)
+## Thief-catcher
+## Bounty Hunter
+
+
+
+## Swordsman
+Body - Melee (Swords) 
+Intellect - Knowledge (Tactics)
+
+## Knight
+Body - Melee (Sword, Mace), Mounted combat (Lance)
+Social - Chivalry, Etiquette
+
+## Archer
+Body - Archery (Bows)
+
+## Brawler
+Body - Brawling
+
+## Thief
+Hands - Lockpicking, Pickpocket
+
+
+
+
+
+
