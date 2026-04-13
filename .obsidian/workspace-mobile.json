@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Locations/Kessenval/Marrant/Loran-s Oaks.md",
+                "file": "DND/StatBlocks/Nightmare Quasit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loran-s Oaks"
+              "title": "Nightmare Quasit"
             }
           }
         ]
@@ -156,8 +156,9 @@
   },
   "active": "53bab9d8ec458405",
   "lastOpenFiles": [
-    "DND/Locations/Kessenval/Marrant/Barony of Marrant.md",
+    "DND/Scenarios/Nightmares.md",
     "DND/Locations/Kessenval/Marrant/Loran-s Oaks.md",
+    "DND/Locations/Kessenval/Marrant/Barony of Marrant.md",
     "DND/NPCs/Vona.md",
     "DND/Locations/Marolin forest.md",
     "DND/Locations/Loran-s Oaks.md",
