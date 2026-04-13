@@ -10,6 +10,9 @@ The town is built around a town square with a huge solitary oak tree (Loran's Gr
 Markedet ved den store Eg
 Local market in the middle of the town, around the Great Oak.
 
+### The Temple
+A large round building.
+
 ### Orster Smithy
 Orster-smedjen
 The sisters Nolina (dark hair tied back ) (blacksmith and farrier) and Gimma (curly red hair) (weaponsmith and armourer) run the Orster Smithy. Apprenticies (strikers).
@@ -23,9 +26,10 @@ Turnspit dogs? or just a kid?
 Skovøksen. Ølstue.
 
 ### Vona's Grove
-The wise woman [[Vona]] lives in a hut in a grove close to the town.
+The wise woman [[Vona in the Hedge]] lives in a hut in a grove close to the town.
 
-### The Nightmare house
+### Merchant Sinter's House
+[[Nightmares]]
 
 
 ## Authorities
@@ -40,4 +44,8 @@ Captain Orvin
 [King Alkan-s tomb]: <../../../Scenarios/King Alkan-s tomb.md> "King Alkan's Tomb."
 
 
-[Vona]: ../../../NPCs/Vona.md "Vona"
+
+
+[Vona in the Hedge]: <../../../NPCs/Vona in the Hedge.md> "Vona in the Hedge"
+
+[Nightmares]: ../../../Scenarios/Nightmares.md "Nightmares"

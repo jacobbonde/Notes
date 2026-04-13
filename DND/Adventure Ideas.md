@@ -1,13 +1,8 @@
-[[King Alkan-s tomb]]  
-[[Couriers of the Relic]]  
-[[Save the Sawmill]]
+[[King Alkan-s tomb]] Completed ✅   
+[[Save the Sawmill]]  Completed ✅   
 [[Nightmares]]
 
-
-Toke : N'Konin  
-Alvin: Kalahma  
-Peter: Robana  
-Johan: Xoran
+[[Couriers of the Relic]]  
 
 
 [King Alkan-s tomb]: <Scenarios/King Alkan-s tomb.md> "King Alkan's Tomb."
