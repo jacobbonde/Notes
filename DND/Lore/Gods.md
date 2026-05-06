@@ -14,20 +14,20 @@ Four gods representing each season in the year - spring, summer, autumn, winter.
 
 ### Spring - Feruna
 
-Youth, beginnings, fertility  
+Youth, beginnings, fertility , dawn, trumpet 
 *Domains:* Life, War, (Nature)
 
 ### Summer - Sëor
 
-Maturity, light, family, war  
+Maturity, light, family, war, noon
 *Domains:* Light, Life, War
 
 ### Autumn - Emrin
 
-Harvest, hunt, decline, old age  
+Harvest, hunt, decline, old age, sunset
 *Domain:* Trickery, Life, (Tempest, Nature)
 
 ### Winter - Vorsleren
 
-Endings, death, darkness, rebirth  
+Endings, death, darkness, rebirth , midnight 
 *Domain:* Trickery, (Knowledge, Grave)

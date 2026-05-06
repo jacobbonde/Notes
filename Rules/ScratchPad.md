@@ -82,6 +82,7 @@ Mind - Knowledge(Monster Lore)
 ## Thief-catcher
 ## Bounty Hunter
 
+## Dungeon Delver
 
 
 ## Swordsman
