@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Lore/Gods.md",
+                "file": "DND/Scenarios/Nightmares.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gods"
+              "title": "Nightmares"
             }
           }
         ]
@@ -156,11 +156,12 @@
   },
   "active": "53bab9d8ec458405",
   "lastOpenFiles": [
+    "DND/StatBlocks/Nightmare Quasit.md",
+    "DND/Scenarios/Nightmares.md",
+    "DND/Lore/Gods.md",
     "DND/NPCs/Erlan Strud - The Collector.md",
     "Rules/ScratchPad.md",
     "DND/Scenarios/Watermill.md",
-    "DND/StatBlocks/Nightmare Quasit.md",
-    "DND/Scenarios/Nightmares.md",
     "DND/Locations/Kessenval/Marrant/Loran-s Oaks.md",
     "DND/Locations/Kessenval/Marrant/Barony of Marrant.md",
     "DND/NPCs/Vona.md",
