@@ -19,15 +19,15 @@ Youth, beginnings, fertility , dawn, trumpet
 
 ### Summer - Sëor
 
-Maturity, light, family, war, noon
+Maturity, light, family, war, noon, drums
 *Domains:* Light, Life, War
 
 ### Autumn - Emrin
 
-Harvest, hunt, decline, old age, sunset
+Harvest, hunt, decline, old age, sunset, chimes
 *Domain:* Trickery, Life, (Tempest, Nature)
 
 ### Winter - Vorsleren
 
-Endings, death, darkness, rebirth , midnight 
+Endings, death, darkness, rebirth , midnight, bells 
 *Domain:* Trickery, (Knowledge, Grave)
