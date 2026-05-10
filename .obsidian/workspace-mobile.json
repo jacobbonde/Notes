@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Scenarios/Nightmares.md",
+                "file": "DND/Lore/Gods.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Nightmares"
+              "title": "Gods"
             }
           }
         ]
@@ -156,8 +156,10 @@
   },
   "active": "53bab9d8ec458405",
   "lastOpenFiles": [
-    "DND/StatBlocks/Nightmare Quasit.md",
+    "DND/Tokes Kampagne.md",
+    "World/ScratchPad.md",
     "DND/Scenarios/Nightmares.md",
+    "DND/StatBlocks/Nightmare Quasit.md",
     "DND/Lore/Gods.md",
     "DND/NPCs/Erlan Strud - The Collector.md",
     "Rules/ScratchPad.md",
@@ -170,7 +172,6 @@
     "DND/Locations/Oak-s Memory Manor.md",
     "Kingdom of.md",
     "DND/NPCs/House Gaud.md",
-    "World/ScratchPad.md",
     "DND/AdventureIdeas.md",
     "DND/Scenarios/King Alkan's tomb.md",
     "Maralin forest.md",
